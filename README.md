@@ -1,3 +1,4 @@
+[![Python application that runs tests with Github Actions](https://github.com/cs-uche/python_scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/cs-uche/python_scaffold/actions/workflows/main.yml)
 # python_scaffold
 **The goal: Implement a Continuous Integration Pipeline** 
 
